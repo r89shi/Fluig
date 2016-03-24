@@ -26,6 +26,7 @@ Para criar um processo automatico no Fluig realize o passo a passo.
   ![novoAtribulto](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/nvAtrConf_04.JPG)
 
 5. Aparecerá igual a imagem a baixo.
+  
   ![novoAtrFica](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/nvAtrFica_05.JPG)
 
 6. Feito isso, substitua o valor **campo** pelo **ID** da Atividade, no meu caso o ID é igual a **38**.
