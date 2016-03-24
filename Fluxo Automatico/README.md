@@ -20,9 +20,9 @@ Para criar um processo automatico no Fluig realize o passo a passo.
   ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/fluxoAuto_03.JPG)
 
 4. Agora para que a tarefa **automatico** execute sozinha é necessário informar nas configurações do processo que ela é automatica.
-  4.1. Para isso clique no campo vazio fora do fluxo.
-  4.2. Na guia **Properties** do Eclipse, clique em Extensões.
-  4.3. Clique em **Adicionar novo Atributo**
-  * **Nome(ID)** - Informe o Atributo que no nosso caso será: **AutomaticTasks**.
-  * **Label** - Informe o titulo que aparecerá na extensão
-  * **Tipo** - Selecione o tipo **Campo** , onde informaremos o ID da Atividade.
+  1. Para isso clique no campo vazio fora do fluxo.
+  2. Na guia **Properties** do Eclipse, clique em Extensões.
+  3. Clique em **Adicionar novo Atributo**
+    * **Nome(ID)** - Informe o Atributo que no nosso caso será: **AutomaticTasks**.
+    * **Label** - Informe o titulo que aparecerá na extensão
+    * **Tipo** - Selecione o tipo **Campo** , onde informaremos o ID da Atividade.
