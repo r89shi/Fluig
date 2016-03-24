@@ -26,11 +26,10 @@ Para criar um processo automatico no Fluig realize o passo a passo.
     * **Nome(ID)** - Informe o Atributo que no nosso caso será: **AutomaticTasks**.
     * **Label** - Informe o titulo que aparecerá na extensão
     * **Tipo** - Selecione o tipo **Campo** , onde informaremos o ID da Atividade.
-    
-![novoAtribulto](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/nvAtrConf_04.JPG)
+    ![novoAtribulto](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/nvAtrConf_04.JPG)
 
 5. Aparecerá igual a imagem a baixo.
-![novoAtrFica](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/nvAtrFica_05.JPG)
+  ![novoAtrFica](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/nvAtrFica_05.JPG)
  
 6. Feito isso, substitua o valor **campo** pelo **ID** da Atividade, no meu caso o ID é igual a **38**.
   * Para localizar o ID da Atividade , clique na atividade e na guia **Properties** na aba **Geral**, localize o campo **Código**.
