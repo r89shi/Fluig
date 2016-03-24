@@ -37,3 +37,5 @@ Para criar um processo automatico no Fluig realize o passo a passo.
   * Para localizar o ID da Atividade , clique na atividade e na guia **Properties** na aba **Geral**, localize o campo **Código**.
   
   ![localizandoId](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/localizandoIdTask_06.JPG)
+
+7. Feito esse processo, sempre será criado um processo automatico, e a atividade **Automatico** será realizada pelo proprio Fluig, sem interação de um usuário.
