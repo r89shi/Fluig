@@ -7,10 +7,8 @@ Para criar um processo automatico no Fluig realize o passo a passo.
 *  O **Timer** criará no **Agendamento de Tarefaz** do Fluig uma rotina com os parametros selecionados na edição.
 ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/localizandoTimer_01.jpg)
 
-<<<<<<< HEAD
-=======
 ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/localizandoTimer_01.JPG)
->>>>>>> origin/master
+
 
 2.  Arraste o **Timer** para o processo e configure os parametros na guia **Geral**.
 *  **Nome** - Será o nome do **Timer**.
