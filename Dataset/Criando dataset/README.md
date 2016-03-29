@@ -70,12 +70,14 @@ Para desenvolver um dataset é bem simples, você utilizará o seguinte passo.
  
  Importante sempre chamar o dataset que será adicionado por isso **nomeQueQuiser**
  
- * **addRow(new Array())** - adiciona os valores no dataset, caso o dataset tenha mais de 1 coluna dentro do **new Array()** você informa os valores de acordo com as posicoções,
+ * **addRow(new Array())** - adiciona os valores no dataset, caso o dataset tenha mais de 1 coluna dentro do **new Array()** você informa os valores de acordo com as posições.
+ 
+ Supondo que exista 3 colunas a posicao1 é referete a primeira coluna, a posicao2 a segunda coluna e posicao3 a terceira coluna.
  
  **Exemplo:**
  
  ```
- dataset.addRow(new Array(posicao1, posicao2, posicao3));
+ dataset.addRow(new Array(posicao1, posicao1, posicao3));
  ```
 
 8. Agora que o dataset esta criado e com valor é preciso retornar-lo para que seja possível utilizar-lo.
