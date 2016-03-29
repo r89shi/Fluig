@@ -3,7 +3,7 @@ Para desenvolver um dataset é bem simples, você utilizará o seguinte passo.
 
 1. No projeto do Fluig clique com o botão direito, em new e em seguida Dataset Customizado.
 
- ![novoDTS](https://github.com/robertoShimokawa/Fluig/blob/master/Dataset/Criando%20dataset/images/01.JPG)
+ ![novoDTS](https://github.com/robertoShimokawa/Fluig/blob/master/Dataset/Criando%20dataset/images/01.jpg)
 
 2. Informe um código e uma descrição, clique em finish.
 
