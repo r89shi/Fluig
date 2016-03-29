@@ -50,8 +50,8 @@ Para desenvolver um dataset é bem simples, você utilizará o seguinte passo.
 
  Importante, na hora de criar uma coluna você precisa chamar o local onde foi instanciado o dataset, no nosso caso na **var nomeQueQuiser** por isso fica sendo **nomeQueQuiser**.addColumn("minhaPrimeiraColuna");
  
- **addColumn** - adiciona uma nova coluna no dataset.
- **minhaPrimeiraColuna** - nome da coluna , pode ser o nome que quiser.
+ * **addColumn** - adiciona uma nova coluna no dataset.
+ * **minhaPrimeiraColuna** - nome da coluna , pode ser o nome que quiser.
  
 7. Após criar uma coluna já é possível inserir uma linha no dataset, nesta linha será armazenado um valor.
 
@@ -70,7 +70,7 @@ Para desenvolver um dataset é bem simples, você utilizará o seguinte passo.
  
  Importante sempre chamar o dataset que será adicionado por isso **nomeQueQuiser**
  
- **addRow(new Array())** - adiciona os valores no dataset, caso o dataset tenha mais de 1 coluna dentro do **new Array()** você informa os valores de acordo com as posicoções,
+ * **addRow(new Array())** - adiciona os valores no dataset, caso o dataset tenha mais de 1 coluna dentro do **new Array()** você informa os valores de acordo com as posicoções,
  
  **Exemplo:**
  
@@ -96,4 +96,4 @@ Para desenvolver um dataset é bem simples, você utilizará o seguinte passo.
  }
  ```
  
- **return** - devolve o dataset, sem isso não será possível utilizar os valores dele.
+ * **return** - devolve o dataset, sem isso não será possível utilizar os valores dele.
