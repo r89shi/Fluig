@@ -4,7 +4,7 @@
 Para criar um processo automatico no Fluig realize o passo a passo.
 
 1. Iniciando automaticamente, no eclipse na aba Palette em Fluxos, clique na seta ao lado de **Inicial** e selecione **Timer**.
-  * O **Timer** criará no **Agendamento de Tarefaz** do Fluig uma rotina com os parametros selecionados na edição.
+  * O **Timer** criará no **Agendamento de Tarefas** do Fluig uma rotina com os parametros selecionados na edição.
   
   ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Fluxo%20Automatico/images/localizandoTimer_01.JPG)
 
