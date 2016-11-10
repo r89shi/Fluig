@@ -8,12 +8,12 @@ Durante um processo para bloquear determinado campo para uma certa atividade, po
   ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Bloqueio%20de%20campos/images/01.png)
 
 2. Selecione a opção **Script Evento da Definção de Formulários**.
-  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Bloqueio%20de%20campos/images/02.png)
+  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Bloqueio%20de%20campos/images/02.PNG)
 
 3. Selecione nas caixas de opções.
   1. **Nome do Evento** > **displayFields**
   2. **Relacionar à Formulário** > **nome_do_formulario**
-  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Bloqueio%20de%20campos/images/03.png)
+  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Bloqueio%20de%20campos/images/03.PNG)
 
 4. Note que aparecerá um script com o código abaixo:
   ```
