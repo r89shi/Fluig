@@ -10,7 +10,7 @@ Esse evendo é um script de formulario.
 3. Dentro desse evento faremos o seguinte passo:
 
   Primeiro precisamos saber qual a atividade em que estamos e para isso
-  utilizaremos o comando : ** getValue("WKNumState"); **
+  utilizaremos o comando : **getValue("WKNumState");**
 
   ```
   function beforeTaskSave(colleagueId,nextSequenceId,userList)
@@ -20,7 +20,7 @@ Esse evendo é um script de formulario.
   }
   ```
 4. Vamos definir agora uma mensagem de alerta caso o usuário esqueça de inserir o anexo.
-  Criaremos uma constante: ** var ATTACHMENT_ERROR_MESSAGE = ""; **
+  Criaremos uma constante: **var ATTACHMENT_ERROR_MESSAGE = "";**
 
     ```
     function beforeTaskSave(colleagueId,nextSequenceId,userList)
@@ -48,7 +48,7 @@ Esse evendo é um script de formulario.
 
     }
   ```
-6. Agora coletaremos os dados do anexo utilizando o comando ** hAPI.listAttachments(); **
+6. Agora coletaremos os dados do anexo utilizando o comando **hAPI.listAttachments();**
   ```
   function beforeTaskSave(colleagueId,nextSequenceId,userList)
   {
@@ -65,7 +65,7 @@ Esse evendo é um script de formulario.
       var docs = hAPI.listAttachments();
     }
   ```
-7. O proximo passo é realizar uma validação para ver se existe algum elemento na lista de anexos, para isso utilizaremos o metodo: ** size() **
+7. O proximo passo é realizar uma validação para ver se existe algum elemento na lista de anexos, para isso utilizaremos o metodo: **size()**
   ```
   function beforeTaskSave(colleagueId,nextSequenceId,userList)
   {
@@ -88,7 +88,7 @@ Esse evendo é um script de formulario.
       }
     }
   ```
-8. Agora dentro do ** if(docs.size()== 0) ** forçaremos uma mensagem que não permite o usuario avançar sem inserir um anexo.
+8. Agora dentro do **if(docs.size()== 0)** forçaremos uma mensagem que não permite o usuario avançar sem inserir um anexo.
   ```
   function beforeTaskSave(colleagueId,nextSequenceId,userList)
   {
