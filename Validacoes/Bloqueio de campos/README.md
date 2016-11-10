@@ -5,15 +5,15 @@ Durante um processo para bloquear determinado campo para uma certa atividade, po
 ## Apos criar um formulário vamos criar um script de evento de formulários.
 
 1. Clique com o botão direito na pasta form. Selecione new (novo) > Script Fluig:
-  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Boqueio%de%campos/images/01.JPG)
+  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Boqueio%de%campos/images/01.png)
 
 2. Selecione a opção **Script Evento da Definção de Formulários**.
-  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Boqueio%de%campos/images/02.JPG)
+  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Boqueio%de%campos/images/02.png)
 
 3. Selecione nas caixas de opções.
   1. **Nome do Evento** > **displayFields**
   2. **Relacionar à Formulário** > **nome_do_formulario**
-  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Boqueio%de%campos/images/03.JPG)
+  ![localizandoTimer](https://github.com/robertoShimokawa/Fluig/blob/master/Validacoes/Boqueio%de%campos/images/03.png)
 
 4. Note que aparecerá um script com o código abaixo:
   ```
